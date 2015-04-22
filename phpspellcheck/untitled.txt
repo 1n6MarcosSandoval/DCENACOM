@@ -1,0 +1,52 @@
+Logo:  To be outsourced by Jacob
+
+Nav : Getting Started->get Documentation->Docs?
+	: Download->buttony thing
+	: Highligh current page 
+	
+Hero	:	Gradiant by css3 iuf possible
+		:	 Increase ehiugh is an option
+	 	:	1 button (download)
+		: 	Image -> small demo like a textarea - which I will animate
+		: tiny mooving glow
+			
+Try		:    Blue tab = remove parapgraph text
+	
+		Demo and code compacted, poss side by side
+		Add nav
+		Add paragaph of text per example
+		'look at jsfiddle' for bisual ques
+		
+		Call to action: "Download javascriptspellcehck and try out 17 more examples live on your site"
+		
+		
+Get stared:
+
+	Disabled / greyed out class
+	CTA download button on step 1
+	Optional "next step" prompt button between steps
+	Copy to clipboard
+	Click to select all
+	Step 4 to have signup form "SIgn up for free sodres and support" - hidden
+	CTA: "Havent started yet?" -> download
+	CTA: "Finished Already?" -> advanced documentation
+	
+	
+Features:
+
+	Icons to be outsourced based on paragraphs of text:
+	http://studio.envato.com/explore/icon-set-design?sort=most_delivered
+	Email to be collaborated.
+	Add 1 button - proce point.
+	
+Testimonial:  Test bigger, "marks	
+	
+	CTA banner - full width - single action to match hero banner
+	SIgnup - possibly moved to a modal popup later.
+	
+
+On Scroll over fold:
+		Pinned Nav
+		"get started in under 5 minuites"
+	
+	

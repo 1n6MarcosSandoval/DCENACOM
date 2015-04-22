@@ -1,0 +1,9 @@
+Generador de archivos .docx y descarga del mismo
+
+Se debe acceder a la ruta 10.2.233.168/cenacom/test_a.php
+
+*test_a.php: 	Solicita el nombre que se le dará al archivo.
+*test.php: 	Recibe como parametro el nombre y genera el archivo
+		guardándolo en la carpeta donde se encuentra el php.
+*download1.php:	Recibe como parámetro el nombre del archivo generado y
+		genera un link de descarga para el archivo en cuestión.

@@ -1,0 +1,2 @@
+	$query = oci_parse($conOracle, 'SELECT ENTIDAD, NOM_ENT from ANRO.LOCALIDADES GROUP BY ENTIDAD, NOM_ENT ORDER BY ENTIDAD');
+	comboQueryJS_3c($query,"ENTIDAD", 'NOM_ENT','Estado','Municipio', 'Localidad', 'municipio', 'localidad', 'Seleccionar', 'Lugar');

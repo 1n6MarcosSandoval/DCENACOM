@@ -1,0 +1,86 @@
+
+<select id="unicoEstado" onchange="SeleccionandoCombo_3(this, 'unicoMunicipio', 'unicoLocalidad', 'municipio');" title="Lugar" name="unicoEstado">
+<option value="0">Seleccionar</option>
+<option value="1">Aguascalientes</option>
+<option value="2">Baja California</option>
+<option value="3">Baja California Sur</option>
+<option value="4">Campeche</option>
+<option value="5">Coahuila de Zaragoza</option>
+<option value="6">Colima</option>
+<option value="7">Chiapas</option>
+<option value="8">Chihuahua</option>
+<option value="9">Mexico</option>
+<option value="10">Durango</option>
+<option value="11">Guanajuato</option>
+<option value="12">Guerrero</option>
+<option value="13">Hidalgo</option>
+<option value="13">Mexico</option>
+<option value="14">Jalisco</option>
+<option value="15">Mexico</option>
+<option value="16">Michoacan de Ocampo</option>
+<option value="17">Morelos</option>
+<option value="18">Nayarit</option>
+<option value="19">Nuevo Leon</option>
+<option value="20">Oaxaca</option>
+<option value="21">Puebla</option>
+<option value="22">Queretaro</option>
+<option value="23">Quintana Roo</option>
+<option value="24">San Luis Potosi</option>
+<option value="25">Sinaloa</option>
+<option value="26">Sonora</option>
+<option value="27">Tabasco</option>
+<option value="28">Tamaulipas</option>
+<option value="29">Tlaxcala</option>
+<option value="30">Veracruz de Ignacio de la Llave</option>
+<option value="31">Yucatan</option>
+<option value="32">Zacatecas</option>
+</select><br>
+<select id="unicoMunicipio" onchange="SeleccionandoCombo(this, \'unicoLocalidad\', \'localidad\');" name="unicoMunicipio"></select><br>
+<select id="unicoLocalidad" name="unicoLocalidad"></select><br>
+Otro: <input id="unicoOtroLugar" type="text" value="" maxlength="1000" name="unicoOtroLugar">
+
+
+
+cadena1='<select id="unicoEstado" onchange="SeleccionandoCombo_3(this, 'unicoMunicipio', 'unicoLocalidad', 'municipio');" title="Lugar" name="unicoEstado">';
+cadena2='<option value="0">Seleccionar</option>';
+cadena3='<option value="1">Aguascalientes</option>';
+cadena4='<option value="2">Baja California</option>';
+cadena5='<option value="3">Baja California Sur</option>';
+cadena6='<option value="4">Campeche</option>';
+cadena7='<option value="5">Coahuila de Zaragoza</option>';
+cadena8='<option value="6">Colima</option>';
+cadena9='<option value="7">Chiapas</option>';
+cadena10='<option value="8">Chihuahua</option>';
+cadena11='<option value="9">Mexico</option>';
+cadena12='<option value="10">Durango</option>';
+cadena13='<option value="11">Guanajuato</option>';
+cadena14='<option value="12">Guerrero</option>';
+cadena15='<option value="13">Hidalgo</option>';
+cadena16='<option value="13">Mexico</option>';
+cadena17='<option value="14">Jalisco</option>';
+cadena18='<option value="15">Mexico</option>';
+cadena19='<option value="16">Michoacan de Ocampo</option>';
+cadena20='<option value="17">Morelos</option>';
+cadena21='<option value="18">Nayarit</option>';
+cadena22='<option value="19">Nuevo Leon</option>';
+cadena23='<option value="20">Oaxaca</option>';
+cadena24='<option value="21">Puebla</option>';
+cadena25='<option value="22">Queretaro</option>';
+cadena26='<option value="23">Quintana Roo</option>';
+cadena27='<option value="24">San Luis Potosi</option>';
+cadena28='<option value="25">Sinaloa</option>';
+cadena29='<option value="26">Sonora</option>';
+cadena30='<option value="27">Tabasco</option>';
+cadena31='<option value="28">Tamaulipas</option>';
+cadena32='<option value="29">Tlaxcala</option>';
+cadena33='<option value="30">Veracruz de Ignacio de la Llave</option>';
+cadena34='<option value="31">Yucatan</option>';
+cadena35='<option value="32">Zacatecas</option>';
+cadena36='</select><br>';
+cadena37='<select id="unicoMunicipio" onchange="SeleccionandoCombo(this, \'unicoLocalidad\', \'localidad\');" name="unicoMunicipio"></select><br>';
+cadena38='<select id="unicoLocalidad" name="unicoLocalidad"></select><br>';
+cadena39='Otro: <input id="unicoOtroLugar" type="text" value="" maxlength="1000" name="unicoOtroLugar">';
+
+cadena=cadena1+cadena2+cadena3+cadena4+cadena5+cadena6+cadena7+cadena8+cadena9+cadena10+cadena11+cadena12+cadena13+cadena14+cadena15+cadena16+cadena17+cadena18+cadena19+cadena20+cadena21+cadena22+cadena23+cadena24+cadena25+cadena26+cadena27+cadena28+cadena29+cadena30+cadena31+cadena32+cadena33+cadena34+cadena35+cadena36+cadena37+cadena38+cadena39;
+
+
